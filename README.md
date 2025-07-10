@@ -6,7 +6,7 @@ It is designed to simplify front-desk tasks for small to medium-sized hotels or 
 
 ---
 ## Dependencies
--pip install customtkinter
+- pip install customtkinter
 ## Features
 
 - Real-time room availability status
