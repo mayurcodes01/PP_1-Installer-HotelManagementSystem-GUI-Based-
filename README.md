@@ -5,7 +5,8 @@ This is a self-developed Hotel Management System built using **Python** and **Cu
 It is designed to simplify front-desk tasks for small to medium-sized hotels or guest houses.
 
 ---
-
+##Dependencies
+-pip install customtkinter
 ## Features
 
 - Real-time room availability status
